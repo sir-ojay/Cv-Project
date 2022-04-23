@@ -1,0 +1,29 @@
+.footer-container{
+    background-color: #3b5998;
+    display:flex;
+    justify-content:center;
+}
+.fa-github,.fa-twitter-square, .fa-linkedin-square{
+    color:#ffffff;
+    margin:5% 15%;
+}
+footer p{
+    color:#ffffff;
+    font-size:15px;
+    
+}
+footer a{
+    color:#ffffff;
+    text-decoration:none;
+}
+footer a:hover{
+   background: rgb(147, 187, 255);
+   padding: 10px 20px;
+   transition: all 2s ease-in-out;
+}
+.social-info{
+    margin-top:10%;
+}
+.poweredby{
+    margin-bottom:10%;
+}
