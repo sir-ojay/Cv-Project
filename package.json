@@ -1,4 +1,4 @@
-{ "homepage": " https://sir-ojay.github.io/cv-project.git",
+{ 
   "name": "cv-project",
   "version": "0.1.0",
   "private": true,
